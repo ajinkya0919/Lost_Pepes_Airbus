@@ -1,0 +1,1654 @@
+{
+    "test_sum01": {
+        "generated_summary": "These terms and conditions apply as the Seller sells Products or Services to the Customer (excluding sales made for brokerage or distributor activities).",
+        "uid": "test_sum01"
+    },
+    "test_sum010": {
+        "generated_summary": "Each Party represents that the other is not a Sanctioned Person and if either Party becomes a Sanctioned Person, it must inform the other accordingly.",
+        "uid": "test_sum010"
+    },
+    "test_sum0100": {
+        "generated_summary": "Expenses relating to the travelling, living and accommodation of the trainees are at the Customers expense.",
+        "uid": "test_sum0100"
+    },
+    "test_sum0101": {
+        "generated_summary": "The price does not include travel Expenses.",
+        "uid": "test_sum0101"
+    },
+    "test_sum0102": {
+        "generated_summary": "Reasonable insurance coverage of risks arising from the Training Services are included in the Sellers insurance policy and the Customer may request the certificate to the Seller.",
+        "uid": "test_sum0102"
+    },
+    "test_sum0103": {
+        "generated_summary": "Any change requested by the Customer is subject to mutual written agreement, as well as an adjustment in the price of the Training Services.",
+        "uid": "test_sum0103"
+    },
+    "test_sum0104": {
+        "generated_summary": "If the Customer decides to cancel a confirmed training course after receipt of the Order Confirmation, the Seller may apply a penalty depending on when the notification is received: More than 46 days: Customer reimburses all costs incurred by the Seller (including termination",
+        "uid": "test_sum0104"
+    },
+    "test_sum0105": {
+        "generated_summary": "The Training Services are performed depending on the contractual delivery schedule. Adherence to the delivery date is subject to the Customer fulfilling its obligations.",
+        "uid": "test_sum0105"
+    },
+    "test_sum0106": {
+        "generated_summary": "If a trainee is late or absent from a course, the Seller may propose at the Customers request and expenses another training slot (subject to the Helicopter / simulator / instructor availability). If an agreement cannot be reached, the provisions under article E2-3",
+        "uid": "test_sum0106"
+    },
+    "test_sum0107": {
+        "generated_summary": "Changes to the training session planning must be done within 60 days before the beginning of the session and bad weather / technical failure shall be considered excusable delay.",
+        "uid": "test_sum0107"
+    },
+    "test_sum0108": {
+        "generated_summary": "The Seller will provide training courses at the Sellers premises or at a location designated by the Seller. Some training courses may be done remotely as an available basis.",
+        "uid": "test_sum0108"
+    },
+    "test_sum0109": {
+        "generated_summary": "The Customer shall comply with the internal rules at the Sellers location, including but not limited to wearing appropriate clothes and shoes and the respect of security rules. If the Customer is unaware of these rules, it must address its questions in writing to the",
+        "uid": "test_sum0109"
+    },
+    "test_sum011": {
+        "generated_summary": "The Customer undertakes to use the Item for civil purpose exclusively.",
+        "uid": "test_sum011"
+    },
+    "test_sum0110": {
+        "generated_summary": "The trainees must comply with all the applicable law in the Sellers country.",
+        "uid": "test_sum0110"
+    },
+    "test_sum0111": {
+        "generated_summary": "Except in case of gross negligence or wilful misconduct, the Seller is responsible for damages caused to the Customers property.",
+        "uid": "test_sum0111"
+    },
+    "test_sum0112": {
+        "generated_summary": "The Customer must ensure before the agreed date of the Training Services that its organization complies with the Sellers quality standards.",
+        "uid": "test_sum0112"
+    },
+    "test_sum0113": {
+        "generated_summary": "The Customer shall provide an appropriate classroom and make sure the Sellers staff receives a briefing relating safety-at-work as well as maintenance installations according to international standard.",
+        "uid": "test_sum0113"
+    },
+    "test_sum0114": {
+        "generated_summary": "Should the Seller evaluate the site/conditions as inappropriate, the Seller may postpone or cancel the Training Services at Customers expenses and apply provisions of articles E2-3 and/or 14.1.1 of the SCS",
+        "uid": "test_sum0114"
+    },
+    "test_sum0115": {
+        "generated_summary": "In case the Seller provides training components and/or tools, the Customer will be invoiced for the shipment, customs and clearance expenses.",
+        "uid": "test_sum0115"
+    },
+    "test_sum0116": {
+        "generated_summary": "The trainee questionnaire and/or enrolment form details the background and the experience of the pilots and/or technicians. The registration is done through the on line form.",
+        "uid": "test_sum0116"
+    },
+    "test_sum0117": {
+        "generated_summary": "If the Customer fails to fulfil these administrative conditions before the start of the training session, the Seller may postpone or cancel the Training Services at Customers expenses and apply provisions of articles E2-3 and/or Article 14.1.1 of the SCS.",
+        "uid": "test_sum0117"
+    },
+    "test_sum0118": {
+        "generated_summary": "Trainees assigned by the Customer must have the necessary prerequisite experience and qualifications. The Customer is responsible for the proficiency of its trainees. The Seller may refuse to train pilots or technicians not meeting those requirements or not deliver the course certificate.",
+        "uid": "test_sum0118"
+    },
+    "test_sum0119": {
+        "generated_summary": "After full payment of the Training Services, course certificate is issued to trainees that successfully passed the qualification tests.",
+        "uid": "test_sum0119"
+    },
+    "test_sum012": {
+        "generated_summary": "If the Customer is in charge of the transportation or in case of exportation to a country outside the European Union, the Customer is responsible for providing to the Seller documentation as well as export customs documentation.",
+        "uid": "test_sum012"
+    },
+    "test_sum0120": {
+        "generated_summary": "To obtain a training completion certificate in view of qualification by the relevant aviation authority, said trainee will have to attend new training courses and pass the qualification tests. In that case, the Customer will have to order new training courses.",
+        "uid": "test_sum0120"
+    },
+    "test_sum0121": {
+        "generated_summary": "Training courses will be provided to trainees fluent in English unless otherwise agreed in the Contract. Recommended level is ICAO level 4, or TOIEC score 605-780. A TOIEC score of 405-600 is required.",
+        "uid": "test_sum0121"
+    },
+    "test_sum0122": {
+        "generated_summary": "The training courses and documentation will be provided in English unless otherwise agreed in the Contract.",
+        "uid": "test_sum0122"
+    },
+    "test_sum0123": {
+        "generated_summary": "For any other language, the Customer should request the help of an Aeronautical Specialist Interpreter (ASI).",
+        "uid": "test_sum0123"
+    },
+    "test_sum0124": {
+        "generated_summary": "If the Customer provides its own interpreter, it must comply with the Sellers pre-defined standards and its abilities will be evaluated, following which the Seller may use an ASI instead (at the Customers expenses). The Customer is responsible for the quality and",
+        "uid": "test_sum0124"
+    },
+    "test_sum0125": {
+        "generated_summary": "The Seller may modify the Training Services because of new regulations without the Customers consent if they do not affect the price and/or schedule. In other cases, the Seller shall agree to the consequences in the Order.",
+        "uid": "test_sum0125"
+    },
+    "test_sum0126": {
+        "generated_summary": "The training manuals will be provided on an electronic device (made available for the duration of the training) or in paper format if the former is unavailable. A copy of the training manual will be given to each trainee. Hard copies are available at",
+        "uid": "test_sum0126"
+    },
+    "test_sum0127": {
+        "generated_summary": "Training material supplied by the Seller to the trainee during the training are not part of the official documentation required by the aviation authorities and cannot be used to satisfy regulatory obligations.",
+        "uid": "test_sum0127"
+    },
+    "test_sum0128": {
+        "generated_summary": "The Seller grants the Customer a non-exclusive, non-transferable and free licence to the software used during the training session.",
+        "uid": "test_sum0128"
+    },
+    "test_sum0129": {
+        "generated_summary": "The Customers trainee may receive a training package (handbook, software and/or application). The Customer isnt entitled to obtain updates to the training package free of charge.",
+        "uid": "test_sum0129"
+    },
+    "test_sum013": {
+        "generated_summary": "Prices are defined at the date of signature.",
+        "uid": "test_sum013"
+    },
+    "test_sum0130": {
+        "generated_summary": "The Seller retains all proprietary rights in matters of engineering, designs, software and training manuals. Unless prior written approval is obtained from the Seller, all data and information received from Seller must be held in confidence by the trainee. They shall not be",
+        "uid": "test_sum0130"
+    },
+    "test_sum0131": {
+        "generated_summary": "The training is performed on an Helicopter provided by the Customer unless otherwise agreed.",
+        "uid": "test_sum0131"
+    },
+    "test_sum0132": {
+        "generated_summary": "Customer shall provide all support needed to obtain validation of the instructors licence by the relevant aviation authorities. If this is not granted at least 1 week prior to the training, the Seller may postpone the training at the Customers expense and apply the provisions under",
+        "uid": "test_sum0132"
+    },
+    "test_sum0133": {
+        "generated_summary": "The Helicopter must be in operational and airworthy conditions, otherwise the Seller may apply the provisions under article E2-3 or article 14.1.1 of the SCS.",
+        "uid": "test_sum0133"
+    },
+    "test_sum0134": {
+        "generated_summary": "Flight training courses are carried out under the Sellers pilot responsibility, acting as pilot in command. It retains the right of final acceptance of the flight crew members for the training.",
+        "uid": "test_sum0134"
+    },
+    "test_sum0135": {
+        "generated_summary": "Only strictly necessary personnel may be on board during the training exercises.",
+        "uid": "test_sum0135"
+    },
+    "test_sum0136": {
+        "generated_summary": "The number of flight hours is based on the minimum requirement to get the expected proficiency level. If additional hours are required, the Customer agrees to grant prolonged usage.",
+        "uid": "test_sum0136"
+    },
+    "test_sum0137": {
+        "generated_summary": "Expenses related to technical assistance, fuel, landing fees and any other tax applicable must be borne by the Customer.",
+        "uid": "test_sum0137"
+    },
+    "test_sum0138": {
+        "generated_summary": "The Customer shall effect and maintain a third party and passage liability insurance in case the Helicopter is damaged during the flight.",
+        "uid": "test_sum0138"
+    },
+    "test_sum0139": {
+        "generated_summary": "Personnel of the Seller is insured by the Seller except in wilful misconduct or gross negligence.",
+        "uid": "test_sum0139"
+    },
+    "test_sum014": {
+        "generated_summary": "Prices are exclusive of taxes, VAT and any charges resulting from any country other than the Sellers country. If applicable, such taxes will be charged in addition.",
+        "uid": "test_sum014"
+    },
+    "test_sum0140": {
+        "generated_summary": "The Customer and its insurers waive the right to recourse against the Seller, its subcontractors, its subsidiaries or its insurers in case of total or partial destruction of the concerned Helicopter, any fitted equipment, furniture item, any valuables or good owned by the",
+        "uid": "test_sum0140"
+    },
+    "test_sum0141": {
+        "generated_summary": "The Customer and its insurers waive the right to recourse against the Seller, its subcontractors, its subsidiaries or its insurers in case of injury of death of any person (including the Customers personnel and passengers).",
+        "uid": "test_sum0141"
+    },
+    "test_sum0142": {
+        "generated_summary": "The Parties agree that the Customer must indemnify and hold harmless the Seller, its subcontractors, its subsidiaries and insurers from and against any liability or character which may be presented by any person or entity against them in connection to the above mentioned damages. Nevertheless",
+        "uid": "test_sum0142"
+    },
+    "test_sum0143": {
+        "generated_summary": "If the flight training is done on a helicopter and location of the Seller: Seller is responsible for insuring the Helicopter and its personnel; Seller is responsible for the maintenance and release in service of the Helicopter; Customer is responsible for insuring the Personnel of",
+        "uid": "test_sum0143"
+    },
+    "test_sum0144": {
+        "generated_summary": "During the technicians training, the Customer must ensure the Helicopter is available. Practical training tasks will be done according to the maintenance manual.",
+        "uid": "test_sum0144"
+    },
+    "test_sum0145": {
+        "generated_summary": "All practical tasks performed will be recorded by the instructor. The Customer remains responsible for the release of all affected components and systems as well as the related costs.",
+        "uid": "test_sum0145"
+    },
+    "test_sum0146": {
+        "generated_summary": "The Seller is not liable (except in demonstrated gross negligence from its personnel). The Customer and its insurers waive any claim.",
+        "uid": "test_sum0146"
+    },
+    "test_sum0147": {
+        "generated_summary": "Before the simulator training starts, the Customers trainee must have attended a briefing provided by one of the Parties instructor in the last 90 days.",
+        "uid": "test_sum0147"
+    },
+    "test_sum0148": {
+        "generated_summary": "Dry Training means training on simulator excluding the provision of instructors services or any other services.",
+        "uid": "test_sum0148"
+    },
+    "test_sum0149": {
+        "generated_summary": "During the Dry Training session the Sellers procedures are respected by the Customers instructors. All trainees must hold a valid helicopter pilot license.",
+        "uid": "test_sum0149"
+    },
+    "test_sum015": {
+        "generated_summary": "Prices do not include any preparation, packing, and crating charges nor any modifications carried out at the Customers request.",
+        "uid": "test_sum015"
+    },
+    "test_sum0150": {
+        "generated_summary": "Before the Dry Training session can be carried out, the Customers instructor must have completed the Sellers simulator instructor operating course for at least 3 years.",
+        "uid": "test_sum0150"
+    },
+    "test_sum0151": {
+        "generated_summary": "Except otherwise specified in the Quotation, training program or documentation are not included in the price. The Customer may apply the helicopter procedure it chooses.",
+        "uid": "test_sum0151"
+    },
+    "test_sum0152": {
+        "generated_summary": "The Customer remains responsible for ensuring the Dry Training sessions is recognized by the aviation authority of its country. It is also responsible for the training provided by its own instructor.",
+        "uid": "test_sum0152"
+    },
+    "test_sum0153": {
+        "generated_summary": "The Seller is not liable for unsatisfactory performance of the trainee in flight after the Dry Training session.",
+        "uid": "test_sum0153"
+    },
+    "test_sum0154": {
+        "generated_summary": "Wet Training refers to training on a simulator with instructors services provided by the Seller.",
+        "uid": "test_sum0154"
+    },
+    "test_sum0155": {
+        "generated_summary": "Operating procedures described in the flight manual will be applied. Nevertheless, the Customer remains responsible to make sure that Wet Training is recognized by the relevant aviation authority.",
+        "uid": "test_sum0155"
+    },
+    "test_sum0156": {
+        "generated_summary": "The Seller is approved for providing advanced training to helicopter pilots and improve their general knowledge of the Helicopter. However, the Seller is not liable for unsatisfactory performance of the trainee after the completion of the Wet Training session.",
+        "uid": "test_sum0156"
+    },
+    "test_sum0157": {
+        "generated_summary": "Only flight simulators qualified by the relevant Aviation Authority can be used.",
+        "uid": "test_sum0157"
+    },
+    "test_sum0158": {
+        "generated_summary": "In case of major technical breakdown, the Seller will propose a new training slot or reduce the price of the session by a pro(rata amount (downtime is considered per fraction of 5 minutes).",
+        "uid": "test_sum0158"
+    },
+    "test_sum0159": {
+        "generated_summary": "A simulator session includes the loading time. The simulator is operative unless the instructor calls for technical assistance and interrupts the session. Once the session ended, the Customer must vacate the equipment and sign the logbook.",
+        "uid": "test_sum0159"
+    },
+    "test_sum016": {
+        "generated_summary": "For all Orders below an amount of 200 Euros, the Seller reserves the right to invoice a minimum amount of 200 Euros.",
+        "uid": "test_sum016"
+    },
+    "test_sum0160": {
+        "generated_summary": "The Seller will use videoconferencing applications for remote trainings. Such training is provided on a as available basis and its duration might be impacted because of the use of remote mode.",
+        "uid": "test_sum0160"
+    },
+    "test_sum0161": {
+        "generated_summary": "Confidentiality terms are defined in the applicable conditions of the web videoconferencing applications. The Customer must respect the terms & conditions of the services provided through the web videoconferencing application and hold harmless the Seller of any breach. The Seller may change the",
+        "uid": "test_sum0161"
+    },
+    "test_sum0162": {
+        "generated_summary": "Appropriate equipment, connectivity and telecommunication services are required to allow the Customer to perform the remote training. The Customer is responsible for the choices and costs of these devices and the degradation of the performance of the connection due to these devices. The Seller",
+        "uid": "test_sum0162"
+    },
+    "test_sum0163": {
+        "generated_summary": "The Customer must make sure that it meets the availability of the IT requirement list sent to it before the course as well as appropriate comfort for the trainees.",
+        "uid": "test_sum0163"
+    },
+    "test_sum0164": {
+        "generated_summary": "Training manuals are provided to trainees either as a downloadable file, paper version or electronic device (as available).",
+        "uid": "test_sum0164"
+    },
+    "test_sum0165": {
+        "generated_summary": "Training Items shall be delivered under DAP Incoterm at shipping address.",
+        "uid": "test_sum0165"
+    },
+    "test_sum0166": {
+        "generated_summary": "Seller is not liable for incompatibilities between the Training Items & the Customers equipment.",
+        "uid": "test_sum0166"
+    },
+    "test_sum0167": {
+        "generated_summary": "The Customer shall indemnify the Seller against losses, liabilities and claimed related to: Loss or damage occasioned by failure to follow instructions, misuse or mal-operation or mal-degradation of the Training Means; Defective materials or Training Means supplied",
+        "uid": "test_sum0167"
+    },
+    "test_sum0168": {
+        "generated_summary": "This annex is subject to the SCS and applies to the sale of SaaS and associated or not with DaaS, such as D-Box Service and/or Mobile Telecommunication Services, that are performed to maintain and/or operate Helicopters.",
+        "uid": "test_sum0168"
+    },
+    "test_sum0169": {
+        "generated_summary": "The Customer agrees that it must abide, along with Users, to the General Conditions of Use (GCU) and make sure that Users comply with the GCU. The GCU are available to the Customer upon request and downloadable from the application",
+        "uid": "test_sum0169"
+    },
+    "test_sum017": {
+        "generated_summary": "The payment obligation is fulfilled when the due amount is irrevocably credited to the Sellers bank account through swift.",
+        "uid": "test_sum017"
+    },
+    "test_sum0170": {
+        "generated_summary": "Account means an account allowing access and use to the SaaS (including Administrator and User Accounts).",
+        "uid": "test_sum0170"
+    },
+    "test_sum0171": {
+        "generated_summary": "Administrator is designated by the Customer and the single point of contact for the Seller.",
+        "uid": "test_sum0171"
+    },
+    "test_sum0172": {
+        "generated_summary": "Administrator Account is the account that allows to create and manage as many User accounts as needed.",
+        "uid": "test_sum0172"
+    },
+    "test_sum0173": {
+        "generated_summary": "Analytics Service refers to the reports that result from analysis results, studies and statistics performed on various data sources by the Helicopters proprietary algorithms.",
+        "uid": "test_sum0173"
+    },
+    "test_sum0174": {
+        "generated_summary": "Customers Data means all data that result from the use of the SaaS or any data loaded, transmitted by, or stored by the Customers and/or Users.",
+        "uid": "test_sum0174"
+    },
+    "test_sum0175": {
+        "generated_summary": "Customer Portal refers to a multi-device, browser-based tool that allows the Users to use the services made available by AH. It is currently named AirbusWorld.",
+        "uid": "test_sum0175"
+    },
+    "test_sum0176": {
+        "generated_summary": "User means the Administrator and any person that has been granted access to the SaaS. Thanks to the Administrator, it uses the SaaS through an Internet website or it downloaded the SaaS on a mobile device.",
+        "uid": "test_sum0176"
+    },
+    "test_sum0177": {
+        "generated_summary": "The SaaS, DaaS and Mobile Telecommunication Services are subject to a 1 year licence subscription. It can be granted per helicopter or a per mobile device basis. The SaaS subscriptions price depends on the Class of helicopters. Subscription cannot be authorized or",
+        "uid": "test_sum0177"
+    },
+    "test_sum0178": {
+        "generated_summary": "The subscription is automatically renewed, except if one of the Parties terminates the subscription.",
+        "uid": "test_sum0178"
+    },
+    "test_sum0179": {
+        "generated_summary": "Seller must make sure that the SaaS and/or DaaS contains at least the standard security technologies.",
+        "uid": "test_sum0179"
+    },
+    "test_sum018": {
+        "generated_summary": "Down-payments are non-refundable.",
+        "uid": "test_sum018"
+    },
+    "test_sum0180": {
+        "generated_summary": "The Seller or its providers shall implement reasonable and appropriate security measures to prevent accidental loss, corruption, access to or disclosure of Customers Data.",
+        "uid": "test_sum0180"
+    },
+    "test_sum0181": {
+        "generated_summary": "The Customer remains responsible for the Data it exchanges and must: Comply with regulations; Make sure the exchanged Customer Data doesnt contravene public policy; That such data is free from virus.",
+        "uid": "test_sum0181"
+    },
+    "test_sum0182": {
+        "generated_summary": "The Customers Data loaded on the SaaS and/or DaaS are hosted on a cloud and a secured data platform. The conditions to access it are described in the GCU of the SaaS and/or DaaS. The Customer agrees to such",
+        "uid": "test_sum0182"
+    },
+    "test_sum0183": {
+        "generated_summary": "For data hosted on cloud, their integrity is warranted per the applicable terms and conditions of the service provider. The Customer must comply with these terms and conditions and hold the Seller harmless in case of breach. The Seller may change the cloud provider at",
+        "uid": "test_sum0183"
+    },
+    "test_sum0184": {
+        "generated_summary": "The Customer may need to subscribe to some types of databases depending on the SaaS. In such cases, the Customer will have access to dedicated websites to retrieve the necessary Data.",
+        "uid": "test_sum0184"
+    },
+    "test_sum0185": {
+        "generated_summary": "Analytics Service is granted for internal purposes only. It is subject to subscription (and its full payment).",
+        "uid": "test_sum0185"
+    },
+    "test_sum0186": {
+        "generated_summary": "The Customer and/or Seller shall not disclose, transfer or copy the Analytics Services reports on the airworthiness of the helicopter to any third party.",
+        "uid": "test_sum0186"
+    },
+    "test_sum0187": {
+        "generated_summary": "Notwithstanding the foregoing and subject to the signature of a tripartite agreement, Customer may give access to Analytics Services to the third party responsible for operating and maintaining its Helicopters.",
+        "uid": "test_sum0187"
+    },
+    "test_sum0188": {
+        "generated_summary": "Licence to use SaaS and/or DaaS is granted for internal purposes only. It is subject to subscription (and its full payment).",
+        "uid": "test_sum0188"
+    },
+    "test_sum0189": {
+        "generated_summary": "No other rights than those designated in the GCU are granted by the Seller. Customer must not use the SaaS / DaaS in a way that may damage or cause impairment to the availability/accessibility of SaaS / DaaS. Otherwise, the",
+        "uid": "test_sum0189"
+    },
+    "test_sum019": {
+        "generated_summary": "The payment of the Helicopter and associated services is made in 3 times: an initial down-payment (30% of the amount within 15 calendar days after the signature of the contract), an intermediate down-payment (within 6 months or 9 months depending",
+        "uid": "test_sum019"
+    },
+    "test_sum0190": {
+        "generated_summary": "Customer must put in place reasonable security measures to prevent unauthorized persons from accessing the SaaS, Administrator Account.",
+        "uid": "test_sum0190"
+    },
+    "test_sum0191": {
+        "generated_summary": "Customer may delegate access to a third party upon prior written authorization by the Sellers.",
+        "uid": "test_sum0191"
+    },
+    "test_sum0192": {
+        "generated_summary": "Subscription period starts at the delivery date of the device. It should be delivered under DAP Incoterm at the address mentioned by the Customer.",
+        "uid": "test_sum0192"
+    },
+    "test_sum0193": {
+        "generated_summary": "Customer shall, on termination of the DaaS subscription, return the device in good working order, fair wear and tear permitted, together with all applicable documents to the Seller. Incomplete or damaged devices will be repaired at the Customers expense. If the",
+        "uid": "test_sum0193"
+    },
+    "test_sum0194": {
+        "generated_summary": "Seller may modify SaaS and DaaS at its own discretion without notifying the Customer, in particular by updating and developing SaaS versions. Customer will have access to these new versions without price change until the end of the ongoing subscription.",
+        "uid": "test_sum0194"
+    },
+    "test_sum0195": {
+        "generated_summary": "SaaS Add-ons are not part of the upgrade or new version and must be ordered separately.",
+        "uid": "test_sum0195"
+    },
+    "test_sum0196": {
+        "generated_summary": "Appropriate equipment, connectivity and telecommunication services are required to use the SaaS. The Customers choice of the above remains its sole responsibility.",
+        "uid": "test_sum0196"
+    },
+    "test_sum0197": {
+        "generated_summary": "Good bandwidth is required for good performance of the SaaS. Seller is not liable for any bandwidth issues.",
+        "uid": "test_sum0197"
+    },
+    "test_sum0198": {
+        "generated_summary": "The Mobile Telecommunication Services are associated to the SIM card provided by the Seller and plugged into the connectivity system of the Helicopter. The Customer agrees to it in good faith and in accordance with applicable laws and regulations, to take all the necessary precautions",
+        "uid": "test_sum0198"
+    },
+    "test_sum0199": {
+        "generated_summary": "The Customer allows the Seller to remotely access the DaaS for assistance and maintenance.",
+        "uid": "test_sum0199"
+    },
+    "test_sum02": {
+        "generated_summary": "The delivery schedule shall become effective upon receipt of the first down-payment.",
+        "uid": "test_sum02"
+    },
+    "test_sum020": {
+        "generated_summary": "For pre-owned helicopters, the payment is made in 2 times: an initial down-payment (30% of the amount) and the balance of the total amount.",
+        "uid": "test_sum020"
+    },
+    "test_sum0200": {
+        "generated_summary": "If it cannot be fixed remotely, the Seller will make another device available within 5 days, delivered under DAP Incoterm.",
+        "uid": "test_sum0200"
+    },
+    "test_sum0201": {
+        "generated_summary": "Customer shall send back a failed device at its expense DDP Incoterm at the Sellers site within 2 weeks after the replacement device has been made available to the Customer. At reception, the Seller will perform a defect analysis and if it is",
+        "uid": "test_sum0201"
+    },
+    "test_sum0202": {
+        "generated_summary": "Notwithstanding any provision to the contrary, the Customer may deal in or dispose of any contractual rights/obligations of this Contract.",
+        "uid": "test_sum0202"
+    },
+    "test_sum0203": {
+        "generated_summary": "If the transfer of the Contract is accepted by the Seller, the Customer is solely responsible to determine which Customers Data will be transferred.",
+        "uid": "test_sum0203"
+    },
+    "test_sum0204": {
+        "generated_summary": "The Seller is liable in 5 situations: use of SaaS despite the Sellers recommendation to suspend it for any reason; Use of SaaS in an environment not suitable or recommended by the Seller or with third-party programs or data not approved by the Seller",
+        "uid": "test_sum0204"
+    },
+    "test_sum0205": {
+        "generated_summary": "This annex is subject to the SCS and applies to the sale of Services relating to reparation, overhaul, standard exchange, inspection and modification of Parts performed by the Seller to any Customer in order to maintain and/or operate Helicopters.",
+        "uid": "test_sum0205"
+    },
+    "test_sum0206": {
+        "generated_summary": "For Parts with a fixed price, the Seller may invoice the work.",
+        "uid": "test_sum0206"
+    },
+    "test_sum0207": {
+        "generated_summary": "For Parts with a fixed price, additional Quotation may be issued by the Seller after the Part is inspected, if some components that do not have their price fixed.",
+        "uid": "test_sum0207"
+    },
+    "test_sum0208": {
+        "generated_summary": "For Parts with basic price and other Parts, a Quotation will be made after inspection.",
+        "uid": "test_sum0208"
+    },
+    "test_sum0209": {
+        "generated_summary": "If the Quotation is refused by the Customer, the Part will be returned as is at its expenses (including inspection, administration, packaging, transportation costs).",
+        "uid": "test_sum0209"
+    },
+    "test_sum021": {
+        "generated_summary": "For any Order, the payment of Products and/ or Services is made in 3 times: a 30% down-payment (within 15 calendar days) and the balance of the invoiced amount (within 30 days).",
+        "uid": "test_sum021"
+    },
+    "test_sum0210": {
+        "generated_summary": "Quotation is valid for 2 months after being issued. If the Customer doesnt answer in that timeframe, the Seller may extend/update it and invoice the storage fees to the Customer. Updated Quotation is valid for 1 month after being issued. If the",
+        "uid": "test_sum0210"
+    },
+    "test_sum0211": {
+        "generated_summary": "If a Part is non-repairable or unserviceable, the Seller will scrap it with Customers approval at the latters expense (including inspection, administration, packaging, transportation costs).",
+        "uid": "test_sum0211"
+    },
+    "test_sum0212": {
+        "generated_summary": "If the Seller cannot handle transportation, it must inform the Customer. The Customer must then pick up the part within 1 month after the receipt of the notice, otherwise the Seller may scrap the Part with no formality at Customers expense (including inspection,",
+        "uid": "test_sum0212"
+    },
+    "test_sum0213": {
+        "generated_summary": "If the Parts has been repaired in a service centre not approved by the Seller, it may repair it again according to its standard.",
+        "uid": "test_sum0213"
+    },
+    "test_sum0214": {
+        "generated_summary": "To obtain the Seller RMA number, Customer must provide certified component history/logcard. Part must be sent under DDP Incoterm to the location specified by the RMA.",
+        "uid": "test_sum0214"
+    },
+    "test_sum0215": {
+        "generated_summary": "If Customer fails to send these documents within 3 weeks after the Sellers reminder, Part will be returned to the Customer under DDP Incoterm at the latters expense.",
+        "uid": "test_sum0215"
+    },
+    "test_sum0216": {
+        "generated_summary": "If the method of shipment is not specified, the Seller chooses the method of transportation at the Customers expense. Seller is not liable for the selection of mode of transportation and Customer should directly make claims to the carrier.",
+        "uid": "test_sum0216"
+    },
+    "test_sum0217": {
+        "generated_summary": "Repair/overhaul/standard exchange Part must be delivered under FCA Incoterm unless otherwise specified at the Sellers facility (as specified in Quotation).",
+        "uid": "test_sum0217"
+    },
+    "test_sum0218": {
+        "generated_summary": "If the Customers container is damaged during transport, the Seller may send a quote to the Customer to repair it, a new one or a used one.",
+        "uid": "test_sum0218"
+    },
+    "test_sum0219": {
+        "generated_summary": "The standard exchange implies supplying another equivalent airworthy Part.",
+        "uid": "test_sum0219"
+    },
+    "test_sum022": {
+        "generated_summary": "For Spare Part Orders not exceeding 200 000 and R&O Service Orders not exceeding 50 000, full payment shall be made within 30 days following the date of the invoice.",
+        "uid": "test_sum022"
+    },
+    "test_sum0220": {
+        "generated_summary": "The exchange is subject to the availability of the Part. If the Part is not available, the Seller may, on Customers request, propose an alternate solution. If the Part is available, it will be made available within 48 hours. Customer is",
+        "uid": "test_sum0220"
+    },
+    "test_sum0221": {
+        "generated_summary": "If the exchange Part is delivered in a consigned container, the Core Unit is returned in it. Seller may invoice costs after inspection of the Core Unit.",
+        "uid": "test_sum0221"
+    },
+    "test_sum0222": {
+        "generated_summary": "Customer must return the Core Unit at its expense and title of ownership within 4 weeks after the exchange Part was delivered. In case of delay, liquidated damages up to 10% of the Parts price may be invoiced. Theyre not refundable. If the",
+        "uid": "test_sum0222"
+    },
+    "test_sum0223": {
+        "generated_summary": "If the Core Unite is delivered without logcard, the Seller informs the Customer at technical filtering step and may invoice storage fee until logcard is received. If no answer is received within 2 months, the Part will be scrapped at the Customers expense",
+        "uid": "test_sum0223"
+    },
+    "test_sum0224": {
+        "generated_summary": "If the Part cant be repaired, standard exchange rules are not applicable and the Seller may invoice the exchange Part at the price of a used or a brand new one.",
+        "uid": "test_sum0224"
+    },
+    "test_sum0225": {
+        "generated_summary": "Parts considered for repair/overhaul are those that are reduced and secured TATs.",
+        "uid": "test_sum0225"
+    },
+    "test_sum0226": {
+        "generated_summary": "The Customer grants the Seller the right to provide a standard exchange instead of a repair or overhaul as applicable, at the same price of the ordered repair or overhaul including additional costs (in case of events mentioned in article C2), if any.",
+        "uid": "test_sum0226"
+    },
+    "test_sum0227": {
+        "generated_summary": "If a dynamic assembly component needs to be repaired, the Seller may replace it with a component from its own pool. The Seller must ensure it has the potential to reach the next assembly TBO limit (however, potential difference between the Parts is",
+        "uid": "test_sum0227"
+    },
+    "test_sum0228": {
+        "generated_summary": "A quotation for the additional work can be issued for repair orders, if the final test on bench reveals extra non-conformities.",
+        "uid": "test_sum0228"
+    },
+    "test_sum0229": {
+        "generated_summary": "In accordance with civil aviation regulation, Parts will be released as OVERHAULED, INSPECTED, MODIFIED or REPAIRED.",
+        "uid": "test_sum0229"
+    },
+    "test_sum023": {
+        "generated_summary": "If the Customer is in situation of past debit towards the Seller, the latter may alter the terms of payment and request cash in advance payment or postpone any Product delivery or Service performance.",
+        "uid": "test_sum023"
+    },
+    "test_sum0230": {
+        "generated_summary": "The Seller applies the instructions/directives found in the Technical Data. As long as they dont conflict with them, they can be supplemented by the Customers requests.",
+        "uid": "test_sum0230"
+    },
+    "test_sum0231": {
+        "generated_summary": "If a Part is declared non-airworthy and returned to the Customer, the Seller waives all liability regarding the Part.",
+        "uid": "test_sum0231"
+    },
+    "test_sum0232": {
+        "generated_summary": "All mandatory modifications and necessary work to ensure airworthiness per the Technical Data will be applied at the Customers expense. If the Customer requires not applying airworthiness directives, the Seller will deliver the Part with a Certificate of Conformity without granting air",
+        "uid": "test_sum0232"
+    },
+    "test_sum0233": {
+        "generated_summary": "This annex is subject to the SCS and applies to the sale of pre-owned Helicopters.",
+        "uid": "test_sum0233"
+    },
+    "test_sum0234": {
+        "generated_summary": "Products shall be delivered under FCA Incoterm at the location specified in the PO.",
+        "uid": "test_sum0234"
+    },
+    "test_sum0235": {
+        "generated_summary": "At the Customers request, pilot and technician training can be quoted separately at the Sellers rates. These training sessions will be organized and performed by the Seller at an approved and certified Customer Centre and will be conducted at the location designated by the Seller.",
+        "uid": "test_sum0235"
+    },
+    "test_sum0236": {
+        "generated_summary": "At Customers request, during the initial period of operation, the Seller may provide additional factory trained technical representatives.",
+        "uid": "test_sum0236"
+    },
+    "test_sum0237": {
+        "generated_summary": "Technical Data is provided by the Seller in the same language as the previous Customer.",
+        "uid": "test_sum0237"
+    },
+    "test_sum0238": {
+        "generated_summary": "Additional documentation must be purchased by the Customer at the Sellers rates.",
+        "uid": "test_sum0238"
+    },
+    "test_sum0239": {
+        "generated_summary": "The Seller shall supply at no additional cost as long as the Helicopter is in operation.",
+        "uid": "test_sum0239"
+    },
+    "test_sum024": {
+        "generated_summary": "No discount shall be granted to the Customer in case of early payment.",
+        "uid": "test_sum024"
+    },
+    "test_sum0240": {
+        "generated_summary": "The Seller may change the media of the Technical Data.",
+        "uid": "test_sum0240"
+    },
+    "test_sum0241": {
+        "generated_summary": "So that the Seller can fulfil its obligations, the Customer must notify the Seller of any change in the Customers address or the owners name if the helicopter was sold in interim. In this latter case, the Seller may apply an entrance fee to the",
+        "uid": "test_sum0241"
+    },
+    "test_sum0242": {
+        "generated_summary": "Graduation of the instrument is provided as-is. Customer may request their modifications at its expense.",
+        "uid": "test_sum0242"
+    },
+    "test_sum0243": {
+        "generated_summary": "Markings made on the interior/exterior identification plates will remain. Customer may request modifications at its expense.",
+        "uid": "test_sum0243"
+    },
+    "test_sum0244": {
+        "generated_summary": "Pre-owned helicopters will be delivered with initial exterior finish and interior upholstery. Customer may request repaint and/or refurbish at its expense.",
+        "uid": "test_sum0244"
+    },
+    "test_sum0245": {
+        "generated_summary": "At the latest 15 days after the signature of the contract, the Customer must provide detailed instructions regarding the external paint scheme of the airframe and the colours of the interior upholstery and if necessary, the selected type of upholstery.",
+        "uid": "test_sum0245"
+    },
+    "test_sum0246": {
+        "generated_summary": "The Customer may request to paint the national emblems and/or registrations at its own expense. Detailed instructions must be given at the latest 15 days after the signature of the Contract.",
+        "uid": "test_sum0246"
+    },
+    "test_sum0247": {
+        "generated_summary": "This annex is subject to the SCS and applies to the sale of new Helicopters and the associated Services.",
+        "uid": "test_sum0247"
+    },
+    "test_sum0248": {
+        "generated_summary": "Products shall be delivered under FCA Incoterms at the Sellers facility as specified in the PO in fly-away condition, unpacked and tanks empty. If the facility is not specified, delivery shall be made at FCA Sellers facility (either Mar",
+        "uid": "test_sum0248"
+    },
+    "test_sum0249": {
+        "generated_summary": "Delivery shall be made with a contractual delivery schedule.",
+        "uid": "test_sum0249"
+    },
+    "test_sum025": {
+        "generated_summary": "Payment shall not be postponed for any reason whatsoever. In case of late payment, the Customer shall pay interest rates to the Seller.",
+        "uid": "test_sum025"
+    },
+    "test_sum0250": {
+        "generated_summary": "If the prices are firm and fixed and the delivery date exceeds 12 months after the contract signature date, 3 months before delivery, the prorated increase shall be as published by Eurostat for the euro area for the corresponding time period.",
+        "uid": "test_sum0250"
+    },
+    "test_sum0251": {
+        "generated_summary": "If the HICP is more than 8%, the Parties shall meet to revise the contractual price. This updated price shall take effect at the delivery. However if the Parties cant agree on an updated amount, either Parties may submit the matter to",
+        "uid": "test_sum0251"
+    },
+    "test_sum0252": {
+        "generated_summary": "Helicopter and technician training shall be provided by the Seller at no additional cost. The training will be organized and conducted at a place chosen by the Seller.",
+        "uid": "test_sum0252"
+    },
+    "test_sum0253": {
+        "generated_summary": "This training shall be completed as the latest: For pilots: at the time of delivery of the last Helicopter to the Customer under the Contract ; For technicians: no later than 6 months after delivery of the last Helicopter of the Contract.",
+        "uid": "test_sum0253"
+    },
+    "test_sum0254": {
+        "generated_summary": "The Customer shall send its personnel at the date agreed with the Seller, otherwise, it will lose the benefit of getting the training for free. No credit will be granted by the Seller either.",
+        "uid": "test_sum0254"
+    },
+    "test_sum0255": {
+        "generated_summary": "Only pilots and technicians meeting certain requirements can be trained by the Seller.",
+        "uid": "test_sum0255"
+    },
+    "test_sum0256": {
+        "generated_summary": "Customer is responsible for compliance of the trainees with these prerequisites. The Seller may refuse any pilot or technician not meeting the requirements. Access to the Sellers premises requires granting access to personal information. Customer agrees to forward this information at least 4 weeks before",
+        "uid": "test_sum0256"
+    },
+    "test_sum0257": {
+        "generated_summary": "Except in case of gross negligence or wilful misconduct, when at the Sellers facilities, the Customer is responsible for: The damages suffered by its personnel ; The damages, losses, injury or death of any person (including, the Sellers employees)",
+        "uid": "test_sum0257"
+    },
+    "test_sum0258": {
+        "generated_summary": "For these purposes, the Customer shall maintain relevant insurance coverage.",
+        "uid": "test_sum0258"
+    },
+    "test_sum0259": {
+        "generated_summary": "At the Customers request, the Seller may provide the certificate of insurance.",
+        "uid": "test_sum0259"
+    },
+    "test_sum026": {
+        "generated_summary": "In the event of a failure or delay in payment, the Seller shall be entitled to extend the schedule or suspend performance of the Contract. The retention of any such payment does not preclude the Seller from seeking further damages or costs.",
+        "uid": "test_sum026"
+    },
+    "test_sum0260": {
+        "generated_summary": "The Seller will provide theoretical and practical training depending on the pilots prior experience and qualifications.",
+        "uid": "test_sum0260"
+    },
+    "test_sum0261": {
+        "generated_summary": "The initial training for H125, H130 and H145 Helicopters will be an initial type rating for single pilot VFR. The training for H175 and H225 Helicopters will be an additional type rating for IFR. If the",
+        "uid": "test_sum0261"
+    },
+    "test_sum0262": {
+        "generated_summary": "The additional cost difference between the additional type rating course and the initial type rating course or the additional module(s) shall be borne by the Customer.",
+        "uid": "test_sum0262"
+    },
+    "test_sum0263": {
+        "generated_summary": "Training can only be delivered to pilots holding a valid helicopter license, a valid flying medical certificate and who are fluent in English or in the chosen language of the courses. If an interpreter is necessary, the Customer will bear its costs.",
+        "uid": "test_sum0263"
+    },
+    "test_sum0264": {
+        "generated_summary": "Following the acceptance and transfer of ownership, flight training will be performed on the Helicopter(s) purchased by the Customer. These flights will be conducted under the Sellers responsibility and is thus liable, except in case of gross negligence or wilful misconduct by",
+        "uid": "test_sum0264"
+    },
+    "test_sum0265": {
+        "generated_summary": "During the flight training, the Seller is responsible for fuel provisioning, landing fees, O level maintenance operations and all further maintenance operations.",
+        "uid": "test_sum0265"
+    },
+    "test_sum0266": {
+        "generated_summary": "The training is provided in English, unless otherwise agreed in the Contract. If an interpreter is needed, the Customer will bear its costs.",
+        "uid": "test_sum0266"
+    },
+    "test_sum0267": {
+        "generated_summary": "Schedule, dates and languages of the courses will be mutually agreed upon no later than six months prior to delivery of the first Helicopter to the Customer or at the date of the signature of the Contract if the Helicopter must be delivered within 6 months.",
+        "uid": "test_sum0267"
+    },
+    "test_sum0268": {
+        "generated_summary": "The engine training will be provided under similar conditions for 1 maintenance technician per Helicopter engine for about 5 additional days at specific locations, depending on the engine manufacturer.",
+        "uid": "test_sum0268"
+    },
+    "test_sum0269": {
+        "generated_summary": "To complement the training, the Seller agrees to provide at no additional cost varying number of technical representatives for varying durations depending on the helicopter type.",
+        "uid": "test_sum0269"
+    },
+    "test_sum027": {
+        "generated_summary": "AH and AHD hold various approved production and organization approvals, which implies theyre allowed to issue airworthiness documents.",
+        "uid": "test_sum027"
+    },
+    "test_sum0270": {
+        "generated_summary": "The benefit of this service is lost if the Customer does not use it within the aforementioned time limits. In such a case, no credit will be granted by the Seller either.",
+        "uid": "test_sum0270"
+    },
+    "test_sum0271": {
+        "generated_summary": "The Customer will bear the expenses for the on-site technical support technical relating to: Traveling to the Customers location and back ; Transport expenses within the Customers country when on duty, including travel expenses from their place of residence to their place of",
+        "uid": "test_sum0271"
+    },
+    "test_sum0272": {
+        "generated_summary": "Reasonable insurance coverage of risks arising from this technical assistance is included in the Sellers insurance policy. At the Customers request, the Seller may provide the certificate of insurance.",
+        "uid": "test_sum0272"
+    },
+    "test_sum0273": {
+        "generated_summary": "Technical Data is provided at the latest revision level. Customization of the Technical Data may be provided on a temporary basis for maintenance and identification Tech Data.",
+        "uid": "test_sum0273"
+    },
+    "test_sum0274": {
+        "generated_summary": "The Seller may change the media of the Technical Data",
+        "uid": "test_sum0274"
+    },
+    "test_sum0275": {
+        "generated_summary": "Technical Data are provided in English.",
+        "uid": "test_sum0275"
+    },
+    "test_sum0276": {
+        "generated_summary": "Technical Data are granted personally and may not be transferred or assigned.",
+        "uid": "test_sum0276"
+    },
+    "test_sum0277": {
+        "generated_summary": "Technical publication for the engine is provided directly by the manufacturer (the benefits of which the Seller assigns to the Customer, which accepts it).",
+        "uid": "test_sum0277"
+    },
+    "test_sum0278": {
+        "generated_summary": "For Safran Helicopter engines, the initial technical publication is provided free of charge through web access, which is electronic, interactive and interconnected with the Sellers interactive electronic Technical Data.",
+        "uid": "test_sum0278"
+    },
+    "test_sum0279": {
+        "generated_summary": "For Pratt & Whitneys engines, the initial technical publication is provided free of charge through web access.",
+        "uid": "test_sum0279"
+    },
+    "test_sum028": {
+        "generated_summary": "The Customer is responsible for the continuing airworthiness of the helicopter. It may transfer this obligation through a CAMO contract.",
+        "uid": "test_sum028"
+    },
+    "test_sum0280": {
+        "generated_summary": "Every Helicopter delivered with Helionix is also delivered at no additional cost a configuration data pack. It will be delivered in electronic format. However, the Seller may change the format from time to time.",
+        "uid": "test_sum0280"
+    },
+    "test_sum0281": {
+        "generated_summary": "O.R.I.O.N. and Flight Manual updates must be supplied freely as long as the Helicopter is in operation. The master servicing manual, the maintenance review board report (if applicable) and the SBs will be updated",
+        "uid": "test_sum0281"
+    },
+    "test_sum0282": {
+        "generated_summary": "The Seller may change the media of the Technical Data.",
+        "uid": "test_sum0282"
+    },
+    "test_sum0283": {
+        "generated_summary": "So that the Seller can fulfil its obligations, the Customer must notify the Seller of any change in the Customers address or the owners name if the Helicopter has been sold in the interim (in this case, the Seller may apply an entrance fee to",
+        "uid": "test_sum0283"
+    },
+    "test_sum0284": {
+        "generated_summary": "The Seller assigns engine technical publication updates to the Customer.",
+        "uid": "test_sum0284"
+    },
+    "test_sum0285": {
+        "generated_summary": "For Safran Helicopter engines, the technical publication is updated free of charge through web access, which is electronic, interactive and interconnected with the Sellers interactive electronic access, for an unlimited period of time after delivery.",
+        "uid": "test_sum0285"
+    },
+    "test_sum0286": {
+        "generated_summary": "The technical publication is updated free of charge through web access, for 2 years (H135 helicopters) or 5 years (H175 helicopters) The request of hard copies is charged by the relevant manufacturer to the Customer if available.",
+        "uid": "test_sum0286"
+    },
+    "test_sum0287": {
+        "generated_summary": "Delegation to a third party of the access to the SaaS is subject to the Sellers approval.",
+        "uid": "test_sum0287"
+    },
+    "test_sum0288": {
+        "generated_summary": "SaaS is provided in English and designed to perform the described service specification.",
+        "uid": "test_sum0288"
+    },
+    "test_sum0289": {
+        "generated_summary": "Data loaded via the SaaS are hosted on a cloud. The protection and access conditions are described in the GCU. The Customer hereby allows the Seller to store its Data on the cloud / secured data platform. Customers Data integrity is warranted. The",
+        "uid": "test_sum0289"
+    },
+    "test_sum029": {
+        "generated_summary": "The Seller will notify the Customer of any relevant modification issued by the competent national airworthiness agency and shall make available (at the Customers expenses) the equipment kits that shall be incorporated onto the Helicopter to comply with such modifications.",
+        "uid": "test_sum029"
+    },
+    "test_sum0290": {
+        "generated_summary": "The Customer remains exclusively responsible for the Data it exchanges and must comply with all applicable laws and regulations.",
+        "uid": "test_sum0290"
+    },
+    "test_sum0291": {
+        "generated_summary": "Flight instruments are graduated either in metric or English units as stipulated in the Contract.",
+        "uid": "test_sum0291"
+    },
+    "test_sum0292": {
+        "generated_summary": "Detailed instructions concerning: The external paint scheme of the airframe; The colours of the interior upholstery and if necessary, the selected type of upholstery; Must be provided no later than one month after the signature of the contract.",
+        "uid": "test_sum0292"
+    },
+    "test_sum0293": {
+        "generated_summary": "At Customers request, national emblems or registrations can be painted by the Seller on the airframe. In that case, the detailed instructions must be provided no later than one month after the signature of the contract.",
+        "uid": "test_sum0293"
+    },
+    "test_sum0294": {
+        "generated_summary": "The Seller must be held harmless by the Customer against any infringement of third party rights.",
+        "uid": "test_sum0294"
+    },
+    "test_sum0295": {
+        "generated_summary": "For equipment with a STC, the Seller is responsible for their integration on the Helicopter and the third party STC holder retains responsibility for the type design definition of its own products.",
+        "uid": "test_sum0295"
+    },
+    "test_sum0296": {
+        "generated_summary": "This annex is subject to the SCS and applies to the sale of Services performed by Helicopter.",
+        "uid": "test_sum0296"
+    },
+    "test_sum0297": {
+        "generated_summary": "The orders issued by the Customer to the Seller must contain a number of information.",
+        "uid": "test_sum0297"
+    },
+    "test_sum0298": {
+        "generated_summary": "The Seller is bound by the cost estimates, quotations and/or Contracts. The Customer must inform within 2 days from the date of submission the Seller of any additional work.",
+        "uid": "test_sum0298"
+    },
+    "test_sum0299": {
+        "generated_summary": "Mandatory work (such as tasks related to airworthiness) may not be refused by the Customer.",
+        "uid": "test_sum0299"
+    },
+    "test_sum03": {
+        "generated_summary": "The Seller can carry out modifications required by manufacturing / engineering regulations without the Customers consent as long as they dont affect the performance of the Product.",
+        "uid": "test_sum03"
+    },
+    "test_sum030": {
+        "generated_summary": "Before delivery of a new helicopter, the Seller shall perform production ground and flight tests on Helicopters. The tests shall not exceed a certain amount of hours depending on the helicopter model. Additional hours may be necessary for specific equipment.",
+        "uid": "test_sum030"
+    },
+    "test_sum0300": {
+        "generated_summary": "If the Contract cant be concluded, the Seller will return the Helicopter to the Customer at the latters expenses along with any other costs incurred by the Seller (evaluation, administration and transport ).",
+        "uid": "test_sum0300"
+    },
+    "test_sum0301": {
+        "generated_summary": "If the Seller agrees, the Customer can provide BFE/CFE parts to the Seller so that the latter can incorporate them in its services. Handling charges may be applied by the Seller in consequence. Any delays incurred by the incorporation of B",
+        "uid": "test_sum0301"
+    },
+    "test_sum0302": {
+        "generated_summary": "The Customer shall provide any documentation (including airworthiness documentation) required by the Seller.",
+        "uid": "test_sum0302"
+    },
+    "test_sum0303": {
+        "generated_summary": "If a part is beyond economical repair, the Seller will inform the Customer. The part will be scrapped 30 days after such notice. The Customer may request that such part is sent back to its original manufacturer at its own expense. In either case",
+        "uid": "test_sum0303"
+    },
+    "test_sum0304": {
+        "generated_summary": "Unless otherwise specified, kits from SB or STC equipment modifications are defined on the basis of as-delivered configuration. The expenses incurred by any deviation that requires the amendment of the SB or STC installation shall be charged to the Customer.",
+        "uid": "test_sum0304"
+    },
+    "test_sum0305": {
+        "generated_summary": "Unless otherwise specified, STC is sold to the Customer as specified in the catalog and the offer. The Customer is responsible for ensuring that STC are airworthiness-compliant before it is installed. At the Customers expenses, the Seller provides reasonable support to",
+        "uid": "test_sum0305"
+    },
+    "test_sum0306": {
+        "generated_summary": "STC keeps responsibility for its own Product design.",
+        "uid": "test_sum0306"
+    },
+    "test_sum0307": {
+        "generated_summary": "If a STC is required, the Seller does not warrant its compatibility with future mandatory or non-mandatory modifications.",
+        "uid": "test_sum0307"
+    },
+    "test_sum0308": {
+        "generated_summary": "Logcards and component history data must be duly completed and certified before the arrival of the Helicopter at the Sellers (or subcontractors) site. Late delivery of these documents may be considered an excusable delay and produce additional expenses.",
+        "uid": "test_sum0308"
+    },
+    "test_sum0309": {
+        "generated_summary": "The Customer shall remove or inhibit any optional system fitted on the Helicopter not recognized by the Seller before it is handed over to the Seller as well as inform the latter of any modifications done on the Helicopter since its first delivery.",
+        "uid": "test_sum0309"
+    },
+    "test_sum031": {
+        "generated_summary": "Not later than 1 month prior to the date on which the Helicopter is to be Ready for Acceptance, the Seller provides to the Customer a procedure describing the acceptance process (Acceptance Test Documents) to let him know what flight test could be performed by",
+        "uid": "test_sum031"
+    },
+    "test_sum0310": {
+        "generated_summary": "Helicopter systems and Parts should be sent to the Seller under DDP Incoterm to the Sellers (or subcontractors) site.",
+        "uid": "test_sum0310"
+    },
+    "test_sum0311": {
+        "generated_summary": "The Seller will not provide support on the missing items (they will be appended to the acceptance report). These missing items shall not modify the airworthiness state of the equipment or the safety of the flight. If the Customer is not able to fulfill",
+        "uid": "test_sum0311"
+    },
+    "test_sum0312": {
+        "generated_summary": "The handover acceptance report shall be signed by both Parties upon handover of the Helicopter. Through this document the Customer commits to having complied with alert SBs. The Seller will perform an inventory of the Helicopter. It will be appended to the acceptance report",
+        "uid": "test_sum0312"
+    },
+    "test_sum0313": {
+        "generated_summary": "For test flight execution, the Seller may request the Customer to suspend its registration mark. The seller may also request that the Customer obtains civil licenses. In case of objection, any additional costs / delay will be charged to the Customer.",
+        "uid": "test_sum0313"
+    },
+    "test_sum0314": {
+        "generated_summary": "Seller shall effect and maintain a hangarkeeper liability insurance for an amount not less than the agreed value of the Helicopter or its replacement value.",
+        "uid": "test_sum0314"
+    },
+    "test_sum0315": {
+        "generated_summary": "The Customer shall effect and maintain at their own cost an aviation legal liability insurance for a combined limit not less than the limit of a prudent helicopter operator & a hull all risks/spare all risks ;",
+        "uid": "test_sum0315"
+    },
+    "test_sum0316": {
+        "generated_summary": "Any applicable deductible shall be borne by the Customer. Prior to the start of any Services by the Seller, the Customer shall furnish the Seller with a certificate of insurance that certifies that the above has been endorsed. The insurances protection shall not be",
+        "uid": "test_sum0316"
+    },
+    "test_sum0317": {
+        "generated_summary": "Adherence to the delivery date may be subject to additional lead time due to potential additional works.",
+        "uid": "test_sum0317"
+    },
+    "test_sum0318": {
+        "generated_summary": "Helicopters and parts shall be delivered under FCA Incoterms at the Sellers (or subcontractors) site.",
+        "uid": "test_sum0318"
+    },
+    "test_sum0319": {
+        "generated_summary": "Acceptance shall take place within 5 days after notification of the completion of services. A delivery acceptance report is signed by both Parties. In case of acceptance flight, it shouldnt be more than 1 or 2 hours depending on the Helicopter version.",
+        "uid": "test_sum0319"
+    },
+    "test_sum032": {
+        "generated_summary": "Within 1 week of the receipt of the acceptance notice, the Customer shall send the relevant information to be admitted to the Sellers premises.",
+        "uid": "test_sum032"
+    },
+    "test_sum0320": {
+        "generated_summary": "The Seller can store the Helicopter and to invoice storage costs. Storage may be outside of a hangar and the resulting costs must be paid prior to delivery. Seller is liable for damages incurred during storage or in case of gross negligence misconduct.",
+        "uid": "test_sum0320"
+    },
+    "test_sum0321": {
+        "generated_summary": "Additional payments shall be made as following: 30% of the contractual value no less than 15 days after the said over and above works Order Confirmation ; The remaining contractual amount at the time of the completion of the additional works.",
+        "uid": "test_sum0321"
+    },
+    "test_sum0322": {
+        "generated_summary": "The Services compliance with quality assurance procedures is attested through the certificate of release to service.",
+        "uid": "test_sum0322"
+    },
+    "test_sum0323": {
+        "generated_summary": "It applies to all the maintenance tasks described in the maintenance work report and certifies that they were all carried out in compliance with Part 145 regulations.",
+        "uid": "test_sum0323"
+    },
+    "test_sum0324": {
+        "generated_summary": "The Seller warrants the application of the Customers requests along with relevant regulation.",
+        "uid": "test_sum0324"
+    },
+    "test_sum0325": {
+        "generated_summary": "Parts declared non-airworthy and returned to the Customer will be identified and designated as unserviceable.",
+        "uid": "test_sum0325"
+    },
+    "test_sum0326": {
+        "generated_summary": "All mandatory modifications mentioned in the Technical Data along any work ensuring airworthiness will be applied at Customers expenses. The Seller will deliver a Certificate of Conformity without granting airworthiness if the Customer formally requires the non-application of some airworthiness",
+        "uid": "test_sum0326"
+    },
+    "test_sum0327": {
+        "generated_summary": "These general purchasing conditions are applicable to all purchase orders placed by Airbus Helicopters.",
+        "uid": "test_sum0327"
+    },
+    "test_sum0328": {
+        "generated_summary": "Prices are firm and without taxes.",
+        "uid": "test_sum0328"
+    },
+    "test_sum0329": {
+        "generated_summary": "Payments shall be made to the suppliers bank account within thirty days from the end of the month in which the invoice is issued, paid on the tenth day of the next calendar month.",
+        "uid": "test_sum0329"
+    },
+    "test_sum033": {
+        "generated_summary": "Expenses related to the acceptance activities (traveling, accommodation ) are borne by the Customer.",
+        "uid": "test_sum033"
+    },
+    "test_sum0330": {
+        "generated_summary": "In case of non-payment after the due date, the supplier shall be entitled to charge interest from the due date until the payment date at a rate of three times the legal interest rate in force at the time when payment should have been made",
+        "uid": "test_sum0330"
+    },
+    "test_sum0331": {
+        "generated_summary": "The supplier shall be entitled to charge a lump sum for the collection expenses up to an amount of forty euros.",
+        "uid": "test_sum0331"
+    },
+    "test_sum0332": {
+        "generated_summary": "The supplier shall comply with the Quality Requirements.",
+        "uid": "test_sum0332"
+    },
+    "test_sum0333": {
+        "generated_summary": "Its DMS is maintained in conformity.",
+        "uid": "test_sum0333"
+    },
+    "test_sum0334": {
+        "generated_summary": "Personnel are aware of the processes described in its DMS and comply with the requirements.",
+        "uid": "test_sum0334"
+    },
+    "test_sum0335": {
+        "generated_summary": "All design deliverables are compliant with contractual specifications.",
+        "uid": "test_sum0335"
+    },
+    "test_sum0336": {
+        "generated_summary": "Its design organization has the appropriate authorisations to be able to discharge its responsibility.",
+        "uid": "test_sum0336"
+    },
+    "test_sum0337": {
+        "generated_summary": "Airbus and the Authorities are allowed to make any investigations",
+        "uid": "test_sum0337"
+    },
+    "test_sum0338": {
+        "generated_summary": "For Build to Print, the Supplier shall ensure that all standards are purchased from Airbus Helicopters approved.",
+        "uid": "test_sum0338"
+    },
+    "test_sum0339": {
+        "generated_summary": "The Supplier is responsible for the quality of its supplies and shall ensure the conformity of the delivered Products and/ or Services with the specification.",
+        "uid": "test_sum0339"
+    },
+    "test_sum034": {
+        "generated_summary": "Flights may be performed during the Customers acceptance activities, which should not exceed a certain number of hours depending on the helicopter type.",
+        "uid": "test_sum034"
+    },
+    "test_sum0340": {
+        "generated_summary": "In case of non-conformities, the Purchaser shall be entitled for liquidated damages in case of: Technical non-conformity, Administrative non-conformity",
+        "uid": "test_sum0340"
+    },
+    "test_sum0341": {
+        "generated_summary": "The supplier shall not acquire any interest in any property supplied to it by the Purchaser.",
+        "uid": "test_sum0341"
+    },
+    "test_sum0342": {
+        "generated_summary": "The supplier shall not acquire any interest in any property supplied to it by the Purchaser for performance of the purchase order.",
+        "uid": "test_sum0342"
+    },
+    "test_sum0343": {
+        "generated_summary": "The Supplier shall not subcontract any of its obligations otherwise agreed in writing by Airbus Helicopters. Supplier shall remain liable to Airbus Helicopters.",
+        "uid": "test_sum0343"
+    },
+    "test_sum0344": {
+        "generated_summary": "Request the Purchaser to complete an end user statement.",
+        "uid": "test_sum0344"
+    },
+    "test_sum0345": {
+        "generated_summary": "Provide the Purchaser, any information, declarations and certifications required by the applicable Export Regulations",
+        "uid": "test_sum0345"
+    },
+    "test_sum0346": {
+        "generated_summary": "Prior to submission to the competent export control authority provide the Purchaser with the Export Authorisation application and any amendments",
+        "uid": "test_sum0346"
+    },
+    "test_sum0347": {
+        "generated_summary": "Provide the Purchaser with a copy of any obtained Export Authorisation",
+        "uid": "test_sum0347"
+    },
+    "test_sum0348": {
+        "generated_summary": "Provide for each delivery: Export, Regulations, the Export Control, and Classification. If there is no marking, the Purchaser will consider the Product and/or Service not export control classified",
+        "uid": "test_sum0348"
+    },
+    "test_sum0349": {
+        "generated_summary": "In case of military purchase, seek the Purchasers review and approval of the provisions of the US",
+        "uid": "test_sum0349"
+    },
+    "test_sum035": {
+        "generated_summary": "Acceptance flights are carried out under the Sellers responsibility.",
+        "uid": "test_sum035"
+    },
+    "test_sum0350": {
+        "generated_summary": "In the event of Suppliers failure to comply with its obligations, the Supplier shall replace or modify the relevant impacted Product and/ or Service in compliance with the applicable Export Regulations.",
+        "uid": "test_sum0350"
+    },
+    "test_sum0351": {
+        "generated_summary": "In the event that the Supplier becomes, subject to any sanctions or embargo lists according to Export Regulations and/or the performance of a Partys obligations under this purchase order would constitute a breach of Export Regulation, the Purchaser shall: Suspend performance",
+        "uid": "test_sum0351"
+    },
+    "test_sum0352": {
+        "generated_summary": "The delivery is indicated on the purchase order. Deliveries shall be made at the location indicated in the purchase order. The relevant certificate of conformity, signed, must be enclosed in the delivery note.",
+        "uid": "test_sum0352"
+    },
+    "test_sum0353": {
+        "generated_summary": "Supplier undertakes to inform Airbus Helicopters in writing as soon as reasonably possible.",
+        "uid": "test_sum0353"
+    },
+    "test_sum0354": {
+        "generated_summary": "Airbus Helicopters shall be entitled to invoice liquidated damages for delay or may reduce liquidated damages for late delivery.",
+        "uid": "test_sum0354"
+    },
+    "test_sum0355": {
+        "generated_summary": "Supplier warrants that Products and Services comply.",
+        "uid": "test_sum0355"
+    },
+    "test_sum0356": {
+        "generated_summary": "This warranty shall remain valid 36 months from the date on which Products and Services are accepted by Airbus Helicopters.",
+        "uid": "test_sum0356"
+    },
+    "test_sum0357": {
+        "generated_summary": "The Supplier shall supply spare parts to Airbus Helicopters throughout the period of the usual technical lifetime of the Product.",
+        "uid": "test_sum0357"
+    },
+    "test_sum0358": {
+        "generated_summary": "All intellectual property shall automatically be transferred to the Purchaser and all such rights shall vest in and be the sole and exclusive property of the Purchaser.",
+        "uid": "test_sum0358"
+    },
+    "test_sum0359": {
+        "generated_summary": "The Supplier assigns to the Purchaser such intellectual property created as a result of the work, as soon as created.",
+        "uid": "test_sum0359"
+    },
+    "test_sum036": {
+        "generated_summary": "Unless a major deviation from the specifications is found during the acceptance activities, the Customer accepts the Helicopter as being in conformity with the contract through the Customers signature of an acceptance certificate. If it is not signed within the acceptance time period (or if",
+        "uid": "test_sum036"
+    },
+    "test_sum0360": {
+        "generated_summary": "The Supplier undertakes to execute any assignment or other documentation necessary to give effect to the transfer of the intellectual property created.",
+        "uid": "test_sum0360"
+    },
+    "test_sum0361": {
+        "generated_summary": "The Supplier shall conclude and maintain with insurers to cover its liabilities under the purchase orders issued by Airbus Helicopters.",
+        "uid": "test_sum0361"
+    },
+    "test_sum0362": {
+        "generated_summary": "In case of breach by Supplier, Airbus Helicopters hereby reserves the right, to terminate all or part of the purchase order for default of the Supplier without prejudice to Airbus Helicopters right to claim damages.",
+        "uid": "test_sum0362"
+    },
+    "test_sum0363": {
+        "generated_summary": "In case of property supplied by the Purchaser, the Supplier must undertake all costs.",
+        "uid": "test_sum0363"
+    },
+    "test_sum0364": {
+        "generated_summary": "Airbus Helicopters shall be entitled to terminate the purchase order by providing written notice in the event of a significant modification in Suppliers share capital/ in case of a change of control.",
+        "uid": "test_sum0364"
+    },
+    "test_sum0365": {
+        "generated_summary": "In the event of interruption, cessation or reduction of the Purchasers development and/ or manufacturing activities, the Purchaser may terminate the purchase order by giving a sixty Days prior written notice of termination to the Supplier.",
+        "uid": "test_sum0365"
+    },
+    "test_sum0366": {
+        "generated_summary": "This article defines Confidential Information.",
+        "uid": "test_sum0366"
+    },
+    "test_sum0367": {
+        "generated_summary": "Each Party undertakes to keep the Confidential Information secret and will use it exclusively for the purpose of the purchase order and shall not disclose any Confidential Information to any third party.",
+        "uid": "test_sum0367"
+    },
+    "test_sum0368": {
+        "generated_summary": "Each Party may disclose Confidential Information necessary for the proper performance of the purchase order and provide the Party with the disclosure that each of such third parties is bound by similar obligations of confidentiality.",
+        "uid": "test_sum0368"
+    },
+    "test_sum0369": {
+        "generated_summary": "Any mention by the Supplier of the corporate name or trademarks of Airbus Helicopters shall require prior written consent by Airbus.",
+        "uid": "test_sum0369"
+    },
+    "test_sum037": {
+        "generated_summary": "For Products other than Helicopters, a Certificate of Conformity is issued.",
+        "uid": "test_sum037"
+    },
+    "test_sum0370": {
+        "generated_summary": "Supplier shall ensure its compliance with the applicable laws and/ or regulations.",
+        "uid": "test_sum0370"
+    },
+    "test_sum0371": {
+        "generated_summary": "Supplier shall ensure that the foregoing provisions are included in all contracts.",
+        "uid": "test_sum0371"
+    },
+    "test_sum0372": {
+        "generated_summary": "Supplier shall report to the Purchaser any violation of applicable laws and regulations.",
+        "uid": "test_sum0372"
+    },
+    "test_sum0373": {
+        "generated_summary": "Should the Supplier fail to comply with such laws and/ or regulations, the Supplier shall indemnify the Purchaser.",
+        "uid": "test_sum0373"
+    },
+    "test_sum0374": {
+        "generated_summary": "If the Supplier does not comply with its obligations, the Purchaser reserves the right to terminate the Purchase order.",
+        "uid": "test_sum0374"
+    },
+    "test_sum0375": {
+        "generated_summary": "Supplier shall comply with all governmental statutes, laws, rules and regulations.",
+        "uid": "test_sum0375"
+    },
+    "test_sum0376": {
+        "generated_summary": "Offering, promising, arranging for or paying, anything of value to any individuals",
+        "uid": "test_sum0376"
+    },
+    "test_sum0377": {
+        "generated_summary": "Offering or paying unofficial payments to Public Officials to speed up or obtain routine governmental actions",
+        "uid": "test_sum0377"
+    },
+    "test_sum0378": {
+        "generated_summary": "Supplier shall ensure that the foregoing provisions are included in all contracts.",
+        "uid": "test_sum0378"
+    },
+    "test_sum0379": {
+        "generated_summary": "If the Supplier does not comply with its obligation, the Purchaser reserves the right to terminate the Purchase order.",
+        "uid": "test_sum0379"
+    },
+    "test_sum038": {
+        "generated_summary": "The Customer shall check and notify any defect or non-conformity within a period of time depending on the delivery mean.",
+        "uid": "test_sum038"
+    },
+    "test_sum0380": {
+        "generated_summary": "The Supplier shall protect Airbus Helicopters Information.",
+        "uid": "test_sum0380"
+    },
+    "test_sum0381": {
+        "generated_summary": "The Supplier shall ensure that the access to the Purchasers system is controlled by appropriate methods and controls.",
+        "uid": "test_sum0381"
+    },
+    "test_sum0382": {
+        "generated_summary": "The Supplier shall prevent intrusion of malicious codes on all its systems, equipment, storage media and infrastructure.",
+        "uid": "test_sum0382"
+    },
+    "test_sum0383": {
+        "generated_summary": "The Supplier shall implement a comprehensive and approved security incident management process. The Supplier shall investigate and report to the Purchaser any observed or suspected security weakness or any incident.",
+        "uid": "test_sum0383"
+    },
+    "test_sum0384": {
+        "generated_summary": "On request, the Supplier shall nominate to the Purchaser a point of contact in its organization responsible for routine collaboration and incident reporting.",
+        "uid": "test_sum0384"
+    },
+    "test_sum0385": {
+        "generated_summary": "The Purchaser shall have the right to audit the means implemented by the Supplier and/or its subcontractors in order to ensure compliance with laws and regulations regarding quality and manufacturing processes, anti-corruption, export control, data protection and sustainability.",
+        "uid": "test_sum0385"
+    },
+    "test_sum0386": {
+        "generated_summary": "The Purchaser, shall be entitled to inspect the Products and Services at the Suppliers facilities and the Supplier shall grant access to the Purchaser, Aviation Authorities and Operators.",
+        "uid": "test_sum0386"
+    },
+    "test_sum0387": {
+        "generated_summary": "The Airbus Supplier Code of Conduct shall be deemed accepted by the Supplier.",
+        "uid": "test_sum0387"
+    },
+    "test_sum0388": {
+        "generated_summary": "The Supplier shall comply with the sustainability requirements.",
+        "uid": "test_sum0388"
+    },
+    "test_sum0389": {
+        "generated_summary": "The Purchaser shall be entitled to assign or transfer all or part of its rights.",
+        "uid": "test_sum0389"
+    },
+    "test_sum039": {
+        "generated_summary": "Any return of Products with defect / non-conformity is subject to the Sellers prior written approval.",
+        "uid": "test_sum039"
+    },
+    "test_sum0390": {
+        "generated_summary": "The Supplier shall not assign or transfer any of its rights to a third party without the written consent of the Purchaser.",
+        "uid": "test_sum0390"
+    },
+    "test_sum0391": {
+        "generated_summary": "These conditions are governed with the laws of France.",
+        "uid": "test_sum0391"
+    },
+    "test_sum0392": {
+        "generated_summary": "In the event of any dispute, the Parties shall make every effort to resolve the Dispute amicably including through mediation.",
+        "uid": "test_sum0392"
+    },
+    "test_sum0393": {
+        "generated_summary": "Where a dispute relating to this purchase order the Supplier agrees, at Purchasers discretion: either to provide to the Purchaser at Suppliers expense all assistance to support the Purchasers claim or defense including by providing evidences, as well as its written opinion",
+        "uid": "test_sum0393"
+    },
+    "test_sum0394": {
+        "generated_summary": "The Supplier agrees to support settlement attempts. The Purchaser agrees to discuss with the Supplier any settlement possibility.",
+        "uid": "test_sum0394"
+    },
+    "test_sum0395": {
+        "generated_summary": "The Parties failure to conclude such as sharing agreement shall not preclude the Purchaser from settling the dispute",
+        "uid": "test_sum0395"
+    },
+    "test_sum0396": {
+        "generated_summary": "Changes to these conditions require the written form.",
+        "uid": "test_sum0396"
+    },
+    "test_sum0397": {
+        "generated_summary": "Supplier and Purchaser exclude all legal provisions related to hardship.",
+        "uid": "test_sum0397"
+    },
+    "test_sum0398": {
+        "generated_summary": "Purpose of this Agreement is to define the terms and conditions of the loan.",
+        "uid": "test_sum0398"
+    },
+    "test_sum0399": {
+        "generated_summary": "A document stating the condition of the Equipment shall be signed by the Supplier.",
+        "uid": "test_sum0399"
+    },
+    "test_sum04": {
+        "generated_summary": "The Parties undertake to comply with laws regarding anti-corruption, human rights, Export Control and Customs and to act accordingly.",
+        "uid": "test_sum04"
+    },
+    "test_sum040": {
+        "generated_summary": "The Helicopter must be collected within a time period after the transfer of ownership.",
+        "uid": "test_sum040"
+    },
+    "test_sum0400": {
+        "generated_summary": "Refusal by the Supplier to sign this document may cause the Termination of the Loan Agreement.",
+        "uid": "test_sum0400"
+    },
+    "test_sum0401": {
+        "generated_summary": "The Equipment will be returned to its Purchaser premises under DAP.",
+        "uid": "test_sum0401"
+    },
+    "test_sum0402": {
+        "generated_summary": "For any reason, the Supplier shall notify by written the Purchaser, so that the Parties agree about a new date of return.",
+        "uid": "test_sum0402"
+    },
+    "test_sum0403": {
+        "generated_summary": "Even during the loan period, in case the Purpose can no longer be achieved, the Supplier shall return the Equipment to the Purchaser upon the letters written request within fifteen days.",
+        "uid": "test_sum0403"
+    },
+    "test_sum0404": {
+        "generated_summary": "Risk of loss or damage to the Equipment shall pass: From the Purchaser to the Supplier upon delivery, From the Supplier to the Purchaser upon return",
+        "uid": "test_sum0404"
+    },
+    "test_sum0405": {
+        "generated_summary": "The Supplier shall ensure that the Equipment is used, stored, maintained and operated properly and safely.",
+        "uid": "test_sum0405"
+    },
+    "test_sum0406": {
+        "generated_summary": "The Supplier shall not transfer, lend, sell, assign or mortgage the Equipment to a third party or remove from Suppliers premise without written consent of the Purchaser.",
+        "uid": "test_sum0406"
+    },
+    "test_sum0407": {
+        "generated_summary": "The Equipment remains the sole and exclusive property of the Purchaser.",
+        "uid": "test_sum0407"
+    },
+    "test_sum0408": {
+        "generated_summary": "Any provision of the Contract prohibited by or unlawful or unenforceable under any applicable law by any court of competent jurisdiction shall be severed from the Contract and rendered ineffective without modifying the remaining provisions.",
+        "uid": "test_sum0408"
+    },
+    "test_sum0409": {
+        "generated_summary": "Where the provisions of any applicable law may be waived, they are hereby waived by the Parties to permitted by such law, with the result that the provisions of the Contract shall be valid and binding and enforceable",
+        "uid": "test_sum0409"
+    },
+    "test_sum041": {
+        "generated_summary": "If the Customer fails to pick up its Products within the above mentioned periods of time, it shall reimburse the Seller any expenses incurred for maintenance, storage, insurance, taxes, etc. The Seller may terminate the Contract without any liability.",
+        "uid": "test_sum041"
+    },
+    "test_sum0410": {
+        "generated_summary": "The Parties agree to replace any provision which is prohibited, unlawful or unenforceable with another provision having substantially the same effect.",
+        "uid": "test_sum0410"
+    },
+    "test_sum0411": {
+        "generated_summary": "This Contract supersedes all previous understandings between the Parties.",
+        "uid": "test_sum0411"
+    },
+    "test_sum0412": {
+        "generated_summary": "The Contract has been drawn up in English and only this language version shall be authentic.",
+        "uid": "test_sum0412"
+    },
+    "test_sum0413": {
+        "generated_summary": "Neither Party shall be entitled to assign, contribute or transfer any of its rights to any third party in connection with this Loan Agreement.",
+        "uid": "test_sum0413"
+    },
+    "test_sum042": {
+        "generated_summary": "Upon delivery, all risks relating to the loss or damage of Products are passed to the Customer.",
+        "uid": "test_sum042"
+    },
+    "test_sum043": {
+        "generated_summary": "Until the transfer of risks, the Seller shall maintain an insurance coverage (as is usually practice in the aviation industry).",
+        "uid": "test_sum043"
+    },
+    "test_sum044": {
+        "generated_summary": "The transfer of ownership of any Products other than Helicopters shall take place after fulfillment of export customs formalities by the Seller (when applicable). It will happen at different places depending on the chosen Incoterm and is subject to prior performance by the",
+        "uid": "test_sum044"
+    },
+    "test_sum045": {
+        "generated_summary": "If Products are not delivered, the Seller may terminate the contract through a registered letter. If the Products are not delivered, the Seller may demand that the Customer return the Products.",
+        "uid": "test_sum045"
+    },
+    "test_sum046": {
+        "generated_summary": "Adherence to the delivery date requires the Customer to fulfill its obligations.",
+        "uid": "test_sum046"
+    },
+    "test_sum047": {
+        "generated_summary": "Without a time limit, the Customer shall inform the Seller of any resale of Helicopter(s) within 15 days after the transfer of ownership.",
+        "uid": "test_sum047"
+    },
+    "test_sum048": {
+        "generated_summary": "Except the turbine engine and MEGHAS avionics, all the equipment is free from defects.",
+        "uid": "test_sum048"
+    },
+    "test_sum049": {
+        "generated_summary": "Both the turbine engine and the avionics are covered by the warranty granted by the manufacturers of these items.",
+        "uid": "test_sum049"
+    },
+    "test_sum05": {
+        "generated_summary": "The Customer undertakes to provide truthful and accurate information to the Seller so that the latter can comply with its regulatory obligations.",
+        "uid": "test_sum05"
+    },
+    "test_sum050": {
+        "generated_summary": "Within 15 days after the discovery of a defect, the Customer shall provide to the Seller, through a warranty claim form, the details of its claim and its basis. The defective Parts shall then be returned to the seller within 15 days of the",
+        "uid": "test_sum050"
+    },
+    "test_sum051": {
+        "generated_summary": "The Seller will compensate reasonable transportations costs for the replacement of the allegedly defective Parts.",
+        "uid": "test_sum051"
+    },
+    "test_sum052": {
+        "generated_summary": "The credit does not apply in case of Customers default.",
+        "uid": "test_sum052"
+    },
+    "test_sum053": {
+        "generated_summary": "The Part benefitting from the warranty, transportation costs shall be borne by the Customer.",
+        "uid": "test_sum053"
+    },
+    "test_sum054": {
+        "generated_summary": "Software used by the Helicopter shall be considered as non-conforming only if it substantially deviates from its functions. It shall be remedied by the Seller through either a correction release or by finding a reasonable workaround.",
+        "uid": "test_sum054"
+    },
+    "test_sum055": {
+        "generated_summary": "The warranty is granted to the Customer personally: if the Helicopter is sold during the warranty period, it must notify the Seller.",
+        "uid": "test_sum055"
+    },
+    "test_sum056": {
+        "generated_summary": "The Sellers obligation under the warranty is limited to the repair or replacement of Parts or Services. Failure of such Parts or Services must happen within defined time-limits.",
+        "uid": "test_sum056"
+    },
+    "test_sum057": {
+        "generated_summary": "Software used by the Helicopter is warranted if the Customer notifies the Seller of the non-conformity within 180 days.",
+        "uid": "test_sum057"
+    },
+    "test_sum058": {
+        "generated_summary": "The warranty period on the repaired / replaced Part shall be the warranty period remaining on the respective defective Part and any Part removed and replaced shall become the property of the Seller.",
+        "uid": "test_sum058"
+    },
+    "test_sum059": {
+        "generated_summary": "For Contracts governed by German law, the German legal warranty supersedes the contractual warranty for the first 12 months.",
+        "uid": "test_sum059"
+    },
+    "test_sum06": {
+        "generated_summary": "The Sellers obligations begin as soon as it has received all the necessary information from the Customer and performed the necessary verifications to comply with the regulatory obligations and Know your Customer policy.",
+        "uid": "test_sum06"
+    },
+    "test_sum060": {
+        "generated_summary": "During the performance of the contract, any information disclosed orally is protected.",
+        "uid": "test_sum060"
+    },
+    "test_sum061": {
+        "generated_summary": "Any Proprietary Information disclosed by a Party shall remain its property.",
+        "uid": "test_sum061"
+    },
+    "test_sum062": {
+        "generated_summary": "Notwithstanding, Proprietary Information may be communicated to a legally authorized governmental agency or judge. In such case, a prior notification shall be served on the other Party.",
+        "uid": "test_sum062"
+    },
+    "test_sum063": {
+        "generated_summary": "AH is under the obligation to comply with French Law and as such must communicate various documents related to the economic, industrial, financial or technical nature of its entities abroad.",
+        "uid": "test_sum063"
+    },
+    "test_sum064": {
+        "generated_summary": "AH retains all rights relating to the development, know-how and production procedures.",
+        "uid": "test_sum064"
+    },
+    "test_sum065": {
+        "generated_summary": "Nothing in the SCS shall be construed as a legal transfer or license to any IP title or right.",
+        "uid": "test_sum065"
+    },
+    "test_sum066": {
+        "generated_summary": "The Seller grants the Customer a non-exclusive, non-transferable licence to use SaaS and software on the related Product to operate the Helicopter. This licence does not entitle the Customer to receive updates to such software freely. The Customer shall not reverse",
+        "uid": "test_sum066"
+    },
+    "test_sum067": {
+        "generated_summary": "The liability of the Seller cant exceed 10% of the total net of the contract.",
+        "uid": "test_sum067"
+    },
+    "test_sum068": {
+        "generated_summary": "Each Party is liable for death or bodily injury arising from its own personnel, whatever the cause.",
+        "uid": "test_sum068"
+    },
+    "test_sum069": {
+        "generated_summary": "To the extent permitted at law, the Sellers obligations and liabilities and the Customers remedies as set forth in the Contract are exclusive and are in replacement of any and all other remedies under law or otherwise.",
+        "uid": "test_sum069"
+    },
+    "test_sum07": {
+        "generated_summary": "Each Party agrees to comply with all applicable Export Regulations and agrees that diverting from them is prohibited.",
+        "uid": "test_sum07"
+    },
+    "test_sum070": {
+        "generated_summary": "The delay or absence of payment by the Customer is not considered a Force majeure event.",
+        "uid": "test_sum070"
+    },
+    "test_sum071": {
+        "generated_summary": "In case of Force majeure, the delivery date is extended as reasonably required.",
+        "uid": "test_sum071"
+    },
+    "test_sum072": {
+        "generated_summary": "Any postponement of the contractual dates due to the following causes shall not constitute a delay for the Seller: BFE/CFE not delivered according to schedule; Changes or additions to the Contract require replacement by the Customer; Any failure or omission by",
+        "uid": "test_sum072"
+    },
+    "test_sum073": {
+        "generated_summary": "Additional costs incurred by the Seller as a result of those events can be invoiced by the Seller to the Customer.",
+        "uid": "test_sum073"
+    },
+    "test_sum074": {
+        "generated_summary": "Customer shall indemnify the Seller for all costs and damages incurred by the Seller.",
+        "uid": "test_sum074"
+    },
+    "test_sum075": {
+        "generated_summary": "The Customer shall pay the Seller a termination indemnity equal to 10% of the contractual price",
+        "uid": "test_sum075"
+    },
+    "test_sum076": {
+        "generated_summary": "The Seller is entitled to deliver the remaining non-faulty Products and services.",
+        "uid": "test_sum076"
+    },
+    "test_sum077": {
+        "generated_summary": "The Seller shall return to the Customer any BFE/CFE at its premises",
+        "uid": "test_sum077"
+    },
+    "test_sum078": {
+        "generated_summary": "In case of a force majeure event extending the performance dates for more than 6 months, the Parties shall meet to determine the conditions to which they wish to pursue the Contract. If no agreement is reached within 1 month, either Parties may terminate the",
+        "uid": "test_sum078"
+    },
+    "test_sum079": {
+        "generated_summary": "For Products manufactured and/or performed by AHD, the applicable law is German law. For Products and Services performed by AH, the applicable law is French. No matter the applicable law, the United Nations Convention on Contracts for the International Sale",
+        "uid": "test_sum079"
+    },
+    "test_sum08": {
+        "generated_summary": "If the Customer is involved in ITAR Part 129 or 130, the Customer is liable to comply with Export Regulations and to provide the Seller with a copy of the Authorizations.",
+        "uid": "test_sum08"
+    },
+    "test_sum080": {
+        "generated_summary": "Any dispute shall be the object of an attempt to amicably settle. If no agreement is found after 2 months, then the dispute shall be settled under the rules of the ICC by 3 arbitrators but if the aggregate amount of the dispute is below",
+        "uid": "test_sum080"
+    },
+    "test_sum081": {
+        "generated_summary": "The seat of arbitration shall be Geneva and the language English.",
+        "uid": "test_sum081"
+    },
+    "test_sum082": {
+        "generated_summary": "If the Seller chooses a local court jurisdiction, the Court will be competent to settle the dispute.",
+        "uid": "test_sum082"
+    },
+    "test_sum083": {
+        "generated_summary": "The Parties agree to be the subject of the jurisdiction and waive any right to seek to avoid the jurisdiction above.",
+        "uid": "test_sum083"
+    },
+    "test_sum084": {
+        "generated_summary": "Unless otherwise agreed, resorting to arbitration does not relieve either Party from its obligations.",
+        "uid": "test_sum084"
+    },
+    "test_sum085": {
+        "generated_summary": "In order to improve the Products, AH exchanges various types of data.",
+        "uid": "test_sum085"
+    },
+    "test_sum086": {
+        "generated_summary": "The Customer authorizes AH to collect, process, anonymize, disclose and use the Data.",
+        "uid": "test_sum086"
+    },
+    "test_sum087": {
+        "generated_summary": "The Data disclosed is confidential. However, AH can disclose the Data to some persons and entities as described in article 16.1.",
+        "uid": "test_sum087"
+    },
+    "test_sum088": {
+        "generated_summary": "Anonymous data can be used and disclosed by the Seller without being subject to confidentiality obligations.",
+        "uid": "test_sum088"
+    },
+    "test_sum089": {
+        "generated_summary": "Notwithstanding anything to the contrary in the Contract, the intent of the data collection is not to analyse such data in order to prevent incidents / accidents, therefore neither AH & AHD are liable towards the Customer as the result of a mere possession or",
+        "uid": "test_sum089"
+    },
+    "test_sum09": {
+        "generated_summary": "The Sellers approval is required for the Customer to access Items subject to Export Control laws.",
+        "uid": "test_sum09"
+    },
+    "test_sum090": {
+        "generated_summary": "These conditions supersede all previous communications and / or agreements either oral or written between the Parties.",
+        "uid": "test_sum090"
+    },
+    "test_sum091": {
+        "generated_summary": "If 1 or more articles of these conditions are deemed invalid or unenforceable, the remaining provisions shall remain entirely valid and applicable.",
+        "uid": "test_sum091"
+    },
+    "test_sum092": {
+        "generated_summary": "English is the language of the Contract and shall be used in any documents exchanged between the Parties.",
+        "uid": "test_sum092"
+    },
+    "test_sum093": {
+        "generated_summary": "The order of precedence is the following : Purchase Order, these Conditions, Specific Annexes, Other Annexes in their order of appearance.",
+        "uid": "test_sum093"
+    },
+    "test_sum094": {
+        "generated_summary": "The provisions regarding confidentiality, IP, liability, data exchange, applicable law and dispute resolution shall survive and continue to have effect after the termination of the Contract for 30 years.",
+        "uid": "test_sum094"
+    },
+    "test_sum095": {
+        "generated_summary": "No term, provision or breach shall be waived unless put in written.",
+        "uid": "test_sum095"
+    },
+    "test_sum096": {
+        "generated_summary": "Any modification to the contract shall be put in writing and shall be signed by both Parties.",
+        "uid": "test_sum096"
+    },
+    "test_sum097": {
+        "generated_summary": "No joint venture or partnership is intended nor will any be construed from the Contract.",
+        "uid": "test_sum097"
+    },
+    "test_sum098": {
+        "generated_summary": "The Customer shall not be entitled to assign or transfer its rights under the Contract to a third party without the Seller consent.",
+        "uid": "test_sum098"
+    },
+    "test_sum099": {
+        "generated_summary": "This annex is subject to the SCS and applies to the sale of Training Services or Training Items delivered by the Seller to any Customer in order to maintain and/or operate Helicopters.",
+        "uid": "test_sum099"
+    }
+}
