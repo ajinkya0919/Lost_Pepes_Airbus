@@ -11,7 +11,7 @@ tokenizer = PegasusTokenizer.from_pretrained("google/pegasus-large")
 model = PegasusForConditionalGeneration.from_pretrained("google/pegasus-large", num_hidden_layers=selected_layers).to(device)
 
 # Load and preprocess the JSON file
-with open("~/airbus_helicopters_train_set.json", "r") as f:
+with open("data/airbus_helicopters_train_set.json", "r") as f:
     data = json.load(f)
 
 # Data to train 
